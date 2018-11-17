@@ -1,0 +1,11 @@
+em {
+    display: none;
+    color: #0088cc;
+    display: inline;
+}
+tr:hover em {
+    display: inline;
+}
+tr:hover strong {
+    color: #0088cc;
+}
